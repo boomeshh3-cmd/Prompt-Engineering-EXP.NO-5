@@ -1,3 +1,4 @@
+
 EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
 Aim:
@@ -13,4 +14,5 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
-RESULT: 
+RESULT
+[Ex5_Prompting_Patterns_Boomesh (1).pdf](https://github.com/user-attachments/files/28423918/Ex5_Prompting_Patterns_Boomesh.1.pdf)
